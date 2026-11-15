@@ -1,5 +1,3 @@
-# Google-Prompt-Engineering-for-Video-Generation
-
 # Prompt Engineering for Video Generation with Gemini & Veo
 
 A practical Jupyter notebook demonstrating how to improve AI-generated video by moving from a **simple text prompt** to a structured, multimodal **image-to-video prompt engineering workflow** using Google Gemini and Veo on Vertex AI.
